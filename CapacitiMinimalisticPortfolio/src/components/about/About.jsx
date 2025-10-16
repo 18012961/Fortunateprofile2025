@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css';
-import dior from '../../assets/dior.jpg';
 import CV from '../../assets/Fortunate-FullStack-Dev.pdf';
 import Details from './Details';
 import REF from '../../assets/REF.jpg';

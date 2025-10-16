@@ -1,12 +1,5 @@
-import dior from "../../assets/dior.jpg";
-import clean from "../../assets/cleangirl.jpg";
-import download from "../../assets/download.jpg";
-import hire from "../../assets/HIRE.jpg";
-import Gabi from "../../assets/GabiWebsite.png";
-import Simple from "../../assets/simplewebsite.png";
-import cogta from "../../assets/cogta.png";
+
 import blueappp from "../../assets/blueappp.png";
-import cogtaa from "../../assets/cogta2.png";
 import gabiii from "../../assets/GabiWebsitee.png";
 import simplyy from "../../assets/Simplyy.jpg";
 import sarsportfolio from "../../assets/sarsportfolio.png"
